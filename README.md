@@ -27,9 +27,12 @@ Connected with the Java Database Connectivity to store the user data.
 
 
 Getting Started:
-Clone the repo:
-Environment Set Up steps:1.Open Visual Studio Code to code front-end UI.2.open new project in Eclipse and give some name and then open new package with some name. 2.code the Menu-Driven-Application such as booking,update,delete etc 
-3.Perform some operations if user selects some option in Menu-Driven by using Java 8 version.
+Clone the repo:https://github.com/Mallikarjunreddy-savva/Mallikarjuna-Reddy-Capstone-project
+Environment Set Up steps:
+1.Open Visual Studio Code to code front-end UI.
+2.open new project in Eclipse and give some name and then open new package with some name.
+3.code the Menu-Driven-Application such as booking,update,delete etc 
+4.Perform some operations if user selects some option in Menu-Driven by using Java 8 version.
 
 Features:
 Room management: The room management module of is like your virtual front desk. This functionality lets front desk agents check guests in and out, and cancel or extend reservations with just a few simple clicks.
