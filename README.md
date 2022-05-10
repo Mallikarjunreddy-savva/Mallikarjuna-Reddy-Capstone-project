@@ -27,7 +27,7 @@ Connected with the Java Database Connectivity to store the user data.
 
 
 Getting Started:
-Clone the repo:https://github.com/SainathAmara/capstone.git
+Clone the repo:
 Environment Set Up steps:1.Open Visual Studio Code to code front-end UI.2.open new project in Eclipse and give some name and then open new package with some name. 2.code the Menu-Driven-Application such as booking,update,delete etc 
 3.Perform some operations if user selects some option in Menu-Driven by using Java 8 version.
 
